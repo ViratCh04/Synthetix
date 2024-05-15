@@ -1,0 +1,5 @@
+Synthetix is an innovative platform that utilises SOTA AI models to generate captivating videos. Powered by **Llama 3**, Synthetix combines bleeding edge technologies to create engaging content. It utilizes Microsoft's **SpeechT5** to convert text into natural-sounding speech and incorporates enthralling visuals sourced from a search API..for now. We plan to replace the visuals source with SD model once we find an appropriate source of compute after the prototype.
+
+Initially we are trying to finetune Llama-3 on **TEDX talks** and **TEDEd** videos to make the videos' *prose* slightly more alike those of great teachers and presenters.
+
+With Synthetix, users can effortlessly create high-quality videos on any subject, making it an invaluable tool for _content creators, educators, and businesses alike_. As such, this makes the domains in which this powerful application can be used numerous in nature and globally applicable.
